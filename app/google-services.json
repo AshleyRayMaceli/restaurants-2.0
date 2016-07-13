@@ -1,35 +1,35 @@
 {
   "project_info": {
-    "project_number": "657098392155",
-    "firebase_url": "https://myrestaurants-e4c77.firebaseio.com",
-    "project_id": "myrestaurants-e4c77",
-    "storage_bucket": "myrestaurants-e4c77.appspot.com"
+    "project_number": "1027675335002",
+    "firebase_url": "https://restaurants-am-lq.firebaseio.com",
+    "project_id": "restaurants-am-lq",
+    "storage_bucket": "restaurants-am-lq.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:657098392155:android:dff6c1b29d00d12f",
+        "mobilesdk_app_id": "1:1027675335002:android:dff6c1b29d00d12f",
         "android_client_info": {
           "package_name": "com.epicodus.myrestaurants"
         }
       },
       "oauth_client": [
         {
-          "client_id": "657098392155-cksuebdtfmbhh9b9hbvtrrqbmfincvop.apps.googleusercontent.com",
+          "client_id": "1027675335002-a27q5v1arb948km7mi4qlpp1booeubkm.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.epicodus.myrestaurants",
-            "certificate_hash": "40872DEEA76101C558512AAC36831FD20068E4FF"
+            "certificate_hash": "599A940D99B9593F55EE77265100E269F502609B"
           }
         },
         {
-          "client_id": "657098392155-i9t78tmj04jvlsug2mggda1eeociugpn.apps.googleusercontent.com",
+          "client_id": "1027675335002-steeoj6dlghavhftpqre7t1d29n2rhg8.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAgy-w0D69s4fxHmSyx7YzPFS1soLvrMM4"
+          "current_key": "AIzaSyB86x0B1hbrMzNpg0grzyoLs0yp6atddic"
         }
       ],
       "services": {
@@ -40,7 +40,7 @@
           "status": 2,
           "other_platform_oauth_client": [
             {
-              "client_id": "657098392155-i9t78tmj04jvlsug2mggda1eeociugpn.apps.googleusercontent.com",
+              "client_id": "1027675335002-steeoj6dlghavhftpqre7t1d29n2rhg8.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
