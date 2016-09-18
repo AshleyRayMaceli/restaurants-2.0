@@ -1,4 +1,4 @@
-[!Screenshots](restaurant_app_screenshots.jpg)
+![Screenshots](restaurant_app_screenshots.jpg)
 
 # _My Restaurants App_
 
