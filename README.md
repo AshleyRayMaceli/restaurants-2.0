@@ -1,3 +1,5 @@
+[!Screenshots](restaurant_app_screenshots.jpg)
+
 # _My Restaurants App_
 
 #### By _**Ashley Maceli**_
